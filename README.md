@@ -13,8 +13,8 @@ Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web, focado princip
 - Me aventurei com Bootstrap e Materialize :blush:
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
-- Pretendo estudar Angular
+- Pretendo estudar Angular e desnevolvimento Mobile
 
-### Confira as linguagens que mais trabalhei
+### Confira as linguagens que mais trabalhei:
 
 [![As linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonProtazio)](https://github.com/JaksonProtazio/github-readme-stats)
