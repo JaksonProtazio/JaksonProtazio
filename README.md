@@ -7,25 +7,14 @@
 
 ### Olá! Seja bem-vindo ao meu perfil 👋
 
-Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web.
+Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web, focado principalmente no Front-end mas também me aventuro no Back-end.
 
 - Já mexi com PHP e Laravel :star:
 - Me aventurei com Bootstrap e Materialize :blush:
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
+- Pretendo estudar Angular
+
+### Confira as linguagens que mais trabalhei
 
 [![As linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonProtazio)](https://github.com/JaksonProtazio/github-readme-stats)
-<!--
-**JaksonProtazio/JaksonProtazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
