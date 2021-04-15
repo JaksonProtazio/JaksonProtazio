@@ -1,19 +1,25 @@
-# Jakson Protázio
+Account age: **{{ ACCOUNT_AGE }}** years
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JaksonProtazio)](https://github.com/JaksonProtazio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakson-protazio/)](https://www.linkedin.com/in/jakson-protazio/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592995093065&text=Hello!)](https://api.whatsapp.com/send?phone=5592995093065&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpv.lic16@uea.edu.br)](mailto:jpv.lic16@uea.edu.br)
+Pushed **{{ COMMITS }}** commits
 
-### Olá! Seja bem-vindo ao meu perfil 👋
+Opened **{{ ISSUES }}** issues
 
-Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web.
+Submitted **{{ PULL_REQUESTS }}** pull requests
 
-- Já mexi com PHP e Laravel :star:
-- Me aventurei com Bootstrap e Materialize :blush:
-- Já tive contato com Python e Django :v:
-- Estou me aprofundando em ReactJS e VueJS :heart:
+Received **{{ STARS }}** stars
 
-{{ LANGUAGE_TEMPLATE_START:max=5 }}
-This text will be printed at most 5 times
+Own **{{ REPOSITORIES }}** repositories
+
+Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+
+Top 8 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
+
+Top 4 most used languages across your repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
