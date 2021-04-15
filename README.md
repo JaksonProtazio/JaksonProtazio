@@ -14,7 +14,7 @@ Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web.
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonProtazio)](https://github.com/JaksonProtazio/github-readme-stats)
+[![As linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonProtazio)](https://github.com/JaksonProtazio/github-readme-stats)
 <!--
 **JaksonProtazio/JaksonProtazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
