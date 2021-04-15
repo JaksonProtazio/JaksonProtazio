@@ -13,6 +13,8 @@ Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web.
 - Me aventurei com Bootstrap e Materialize :blush:
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JaksonProtazio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JaksonProtazio/JaksonProtazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
