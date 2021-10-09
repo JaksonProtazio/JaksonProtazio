@@ -7,10 +7,10 @@
 
 ### Olá! Seja bem-vindo ao meu perfil 👋
 
-Meu nome é Jakson e atualmente trabalho com Desenvolvimento Web e atualmente sou desenvolvedor Backend na Nerdweb.
+Meu nome é Jakson e trabalho com Desenvolvimento Web e atualmente sou desenvolvedor Backend na Nerdweb.
 
-- Já mexi com PHP e Laravel :star:
-- Me aventurei com Bootstrap e Materialize :blush:
+- Trabalho com PHP e Laravel :star:
+- Me aventurei com Bootstrap, Materialize e Yii2 :blush:
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
 - Pretendo estudar Angular e desenvolvimento Mobile :star:
