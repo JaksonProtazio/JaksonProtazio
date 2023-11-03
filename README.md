@@ -13,7 +13,8 @@ Meu nome é Jakson e trabalho com Desenvolvimento Web e atualmente sou desenvolv
 - Me aventurei com Bootstrap, Materialize e Yii2 :blush:
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
-- Pretendo estudar Angular e desenvolvimento Mobile :star:
+- Estudando data science :star:
+- Me aventurando no desenvolvioemtno de IA :heart:
 
 ### Confira as linguagens que mais trabalhei:
 
