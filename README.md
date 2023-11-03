@@ -14,7 +14,7 @@ Meu nome é Jakson e trabalho com Desenvolvimento Web e atualmente sou desenvolv
 - Já tive contato com Python e Django :v:
 - Estou me aprofundando em ReactJS e VueJS :heart:
 - Estudando data science :star:
-- Me aventurando no desenvolvioemtno de IA :heart:
+- Me aventurando no desenvolvimento de IA :heart:
 
 ### Confira as linguagens que mais trabalhei:
 
